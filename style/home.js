@@ -139,7 +139,7 @@ $("#comments").on("click", "#f-btn2", function () {
 
 
 //图片放大查看
-$(".f-contentimg").find('img').click(function () {
+$(".f-contenttop").find('img').click(function () {
     var _this = $(this);//将当前的pimg元素作为_this传入函数
     imgShow("#outerdiv", "#innerdiv", "#bigimg", _this);
 });

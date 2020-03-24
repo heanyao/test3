@@ -408,6 +408,11 @@
     /* margin-left: 29px; */
 }
 
+.f-contenttop img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 .f-contentdown {
     /* width: 832px; */
     height: 44px;
